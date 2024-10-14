@@ -63,3 +63,23 @@ Year and team name of all the champions:
 List of teams that start with 'Co':
 Colombia
 Costa Rica
+
+    1121 | France
+    1122 | Croatia
+    1123 | Belgium
+    1124 | England
+    1130 | Russia
+    1132 | Sweden
+    1134 | Brazil
+    1136 | Uruguay
+    1138 | Colombia
+    1140 | Switzerland
+    1142 | Japan
+    1144 | Mexico
+    1146 | Denmark
+    1148 | Spain
+    1150 | Portugal
+    1152 | Argentina
+    1153 | Germany
+    1155 | Netherlands
+:
